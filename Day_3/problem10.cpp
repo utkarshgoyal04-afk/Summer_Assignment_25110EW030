@@ -2,9 +2,9 @@
 using namespace std;
 int main(){
     int num1,num2,rslt;
-cout<<"Enter the upper range : ";
-cin>>num1;
 cout<<"Enter the lower range : ";
+cin>>num1;
+cout<<"Enter the upper range : ";
 cin>>num2;
 if(num1==1){
     num1+=1;
